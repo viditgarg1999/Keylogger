@@ -23,7 +23,7 @@ pip install threading
 pip install os
 ```
 
-2. Once you are done with all these libraries, you can download the "Keylogger.py" script and open it in any of the Python IDE(Jupyter Notebook, Spider, IDLE..)
+2. Once you are done with all these libraries, you can download the "Keylogger.py" script and open it in any of the Python IDE(Jupyter Notebook, Spyder, IDLE..)
 <br/>
 3. Now, when you Run the script it will ask for "A Time interval which you want to be there in between each interval" and once you give the input then the keyogger will start tracking.
 <br/>
