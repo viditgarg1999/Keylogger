@@ -28,6 +28,7 @@ pip install os
 3. Now, when you Run the script it will ask for "A Time interval which you want to be there in between each interval" and once you give the input then the keyogger will start tracking.
 <br/>
 
+This Keylogger will make a new Directory on the Desktop named "Keylogger" where all the Screenshots and log file will be stored.
 
 # How to Stop?
 In order to stop this Keylogger, you have to stop the python script. 
