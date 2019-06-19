@@ -1,6 +1,5 @@
 # Keylogger
-Here i have made Keylogger in Python which can noth only keep track of what the preson is writing and also take screenshots parallely.
-
+Here I have made Keylogger in Python which can not just monitor what the individual is composing and furthermore take screen captures parallelly.
 # How to use?
 1. First of all you need to install all the mentioned python libraries in your device (Here i am assuming that latest Python version is installed in your device).
 <br/><b>Write the following commands in the cmd window:</b>
@@ -35,5 +34,5 @@ In order to stop this Keylogger, you have to stop the python script.
 
 
 # Disclaimer
-This project is only for Eductional Purposes and the misuse of the information in this project can result in criminal charges brought against the persons in question.
+This undertaking is just for Educational Purposes and the abuse of the data in this venture can result in criminal allegations brought against the people being referred to.<br/> 
 I am in no way responsible for the misuse of the information.
